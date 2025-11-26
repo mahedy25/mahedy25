@@ -1,83 +1,87 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/XXdZz9l.gif" width="800"/>
-</p>
+<!-- -------------  Header / Banner  ------------- -->
+<div align="center">
+  <!-- Replace the URL below with your own banner or demo GIF -->
+  <img src="https://i.imgur.com/your-banner.gif" alt="banner" width="100%" />
+</div>
 
-<h1 align="center">Hi there, I'm <span style="color:#00b3ff;">Mahedy Hasan</span> 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Next.js • React • Node.js • MongoDB • Sanity</h3>
-
----
-
-## 🚀 About Me  
-- 🔭 I’m currently working on **Next.js E-commerce, Sanity CMS & Full-Stack MERN Projects**  
-- 🌱 Learning **advanced backend, CMS, serverless, and scalable architecture**  
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express, MongoDB, Sanity, APIs**  
-- ⚡ Fun fact: I love building **beautiful UI + powerful backend systems**
+# 👋 Hi, I’m **Mahedy Hasan**  
+### Full-Stack Web Developer | React · Next.js · Node.js · MongoDB · Sanity / Firebase
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 About Me  
+- I build **modern, responsive full-stack web applications** — combining clean UIs, robust back-ends, and headless-CMS/data solutions.  
+- I’m currently working on **ecommerce platforms**, **CMS-powered blogs**, and full-stack dashboard apps.  
+- I’m always learning — exploring **Next.js advanced patterns, serverless APIs, performance optimization & scalable architectures**.  
+- I love writing clean, maintainable code and building projects that are useful.  
 
-### **Frontend**
+---
+
+## 🛠 Tech & Tools  
+
+**Frontend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="frontend icons"/>
 </p>
 
-### **Backend**
+**Backend / Data / CMS**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sanity" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sanity" alt="backend icons"/>
 </p>
 
-### **Tools & Others**
+**Dev & Tools**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,webpack" alt="tools icons"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Featured Projects  
+<!-- Replace the project names / descriptions / screenshots with your own -->
+
+### **Project 1 — Next.js E-commerce UI**  
+A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
+[Code →](https://github.com/mahedy25/Your-Ecommerce-Repo) | [Live Demo →](https://your-demo-link.com)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahedy25&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy25&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://i.imgur.com/your-screenshot1.png" alt="Ecommerce UI screenshot" width="80%"/>
 </p>
 
----
-
-## 🏆 Achievements & Highlights
-- ✔️ Built multiple **full-stack apps** using **Next.js + Sanity**  
-- ✔️ Experience with **responsive UI design & API integration**  
-- ✔️ Understanding of **databases, authentication, eCommerce, and CMS**  
-- ✔️ Growing skillset in **backend architectures & cloud deployment**
-
----
-
-## 🔥 My Contribution Streak
+### **Project 2 — CMS-Powered Blog**  
+A blog system using Sanity (or Firebase) for content management, with Markdown support, comments, SEO-friendly pages.  
+[Code →](https://github.com/mahedy25/Your-Blog-Repo) | [Live Demo →](https://your-blog-demo.com)  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahedy25&theme=tokyonight" />
+  <img src="https://i.imgur.com/your-screenshot2.png" alt="Blog screenshot" width="80%"/>
 </p>
 
----
-
-## 📂 Featured Projects
-### 🌐 Full-Stack Projects
-- **E-Commerce with Next.js + Sanity**  
-- **Blog CMS**  
-- **MERN Dashboard System**  
-- **Real-Time Chat App**
-
----
-
-## 🌍 Connect With Me  
-<p align="left">
-  <a href="mailto:mahedy.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/mahedy25"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
-
+### **Project 3 — MERN Dashboard / Dashboard System**  
+A management dashboard (admin panel) built with React, Express, MongoDB, featuring authentication and CRUD functionalities.  
+[Code →](https://github.com/mahedy25/Your-Dashboard-Repo)  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/coloured.png"/>
+  <img src="https://i.imgur.com/your-screenshot3.png" alt="Dashboard screenshot" width="80%"/>
 </p>
 
-<h3 align="center">🔥 Always learning. Always building. Always improving. 🔥</h3>
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahedy25&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy25&layout=compact&theme=tokyonight" alt="Top languages" />
+</div>
+
+---
+
+## 📫 Get in Touch  
+
+[![GitHub](https://img.shields.io/badge/GitHub-@mahedy25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahedy25)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
+[![Mail](https://img.shields.io/badge/Email-me-@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahedyhasan873@gmail.com)  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+---
+
+⚡ **I’m always building. Always learning. Always improving.**
 
