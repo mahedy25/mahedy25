@@ -43,7 +43,7 @@
 A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
 [Code →]([https://github.com/mahedy25/Your-Ecommerce-Repo](https://github.com/mahedy25/Sneakerz-Front-end)) | [Live Demo →](sneakerz-front-end.vercel.app)  
 <p align="center">
-  <img src="https://i.imgur.com/your-screenshot1.png" alt="Front-end ecommerce website" width="80%"/>
+  <img src="sneakerz.png" alt="Front-end ecommerce website" width="80%"/>
 </p>
 
 ### **Project 2 — CMS-Powered Blog**  
