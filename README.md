@@ -1,7 +1,7 @@
 <!-- -------------  Header / Banner  ------------- -->
 <div align="center">
   <!-- Replace the URL below with your own banner or demo GIF -->
-  <img src="https://i.imgur.com/your-banner.gif" alt="banner" width="100%" />
+  <img src="Solo Leveling Sung GIF.gif" alt="banner" width="100%" />
 </div>
 
 # 👋 Hi, I’m **Mahedy Hasan**  
