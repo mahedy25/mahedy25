@@ -39,11 +39,11 @@
 ## 🌐 Featured Projects  
 <!-- Replace the project names / descriptions / screenshots with your own -->
 
-### **Project 1 — Next.js E-commerce UI**  
+### **Project 1 — Front-end ecommerce website**  
 A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
-[Code →](https://github.com/mahedy25/Your-Ecommerce-Repo) | [Live Demo →](https://your-demo-link.com)  
+[Code →]([https://github.com/mahedy25/Your-Ecommerce-Repo](https://github.com/mahedy25/Sneakerz-Front-end)) | [Live Demo →](sneakerz-front-end.vercel.app)  
 <p align="center">
-  <img src="https://i.imgur.com/your-screenshot1.png" alt="Ecommerce UI screenshot" width="80%"/>
+  <img src="https://i.imgur.com/your-screenshot1.png" alt="Front-end ecommerce website" width="80%"/>
 </p>
 
 ### **Project 2 — CMS-Powered Blog**  
