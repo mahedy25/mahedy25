@@ -21,7 +21,7 @@
 
 **Frontend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="frontend icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer-motion,gsap" alt="frontend icons"/>
 </p>
 
 **Backend / Data / CMS**  
