@@ -65,9 +65,9 @@ A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headle
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahedy25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&v=10)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahedy25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy25&layout=compact&langs_count=10&theme=tokyonight&v=10)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahedy25&layout=compact&langs_count=10&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedy25&theme=tokyonight)
 
