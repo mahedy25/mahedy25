@@ -41,7 +41,7 @@
 
 ### **Project 1 — Front-end ecommerce website**  
 The portfolio website of Mahedy Hasan.  
-[Code →](https://github.com/mahedy25/Mahedy2002)  
+[Code →](https://github.com/mahedy25/Mahedy2002) | [Live Demo →](https://mahedyhasan.vercel.app/)  
 <p align="center">
   <img src="Screenshot (4028).png" alt="Portfolio website hero img" width="80%"/>
 </p>
