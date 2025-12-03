@@ -40,24 +40,24 @@
 <!-- Replace the project names / descriptions / screenshots with your own -->
 
 ### **Project 1 — Front-end ecommerce website**  
-A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
-[Code →](https://github.com/mahedy25/Sneakerz-Front-end) | [Live Demo →](sneakerz-front-end.vercel.app)  
+The portfolio website of Mahedy Hasan.  
+[Code →](https://github.com/mahedy25/Mahedy2002)  
 <p align="center">
-  <img src="sneakerz.png" alt="Front-end ecommerce website" width="80%"/>
+  <img src="Screenshot (4028).png" alt="Portfolio website hero img" width="80%"/>
 </p>
 
 ### **Project 2 — Full Stack ecommerce website**  
-A blog system using Sanity (or Firebase) for content management, with Markdown support, comments, SEO-friendly pages.  
-[Code →]((https://github.com/mahedy25/Scentora)) | [Live Demo →]((https://scentora.vercel.app/))  
+Full-stack e-commerce website built with Next.js and Sanity CMS to help businesses manage products, accept payments, and scale online operations. 
+[Code →](https://github.com/mahedy25/Scentora) | [Live Demo →](https://scentora.vercel.app/) 
 <p align="center">
-  <img src="https://i.imgur.com/your-screenshot2.png" alt="Blog screenshot" width="80%"/>
+  <img src="Home.png" alt="Full Stack Ecommerce Homepage" width="80%"/>
 </p>
 
-### **Project 3 — MERN Dashboard / Dashboard System**  
-A management dashboard (admin panel) built with React, Express, MongoDB, featuring authentication and CRUD functionalities.  
-[Code →](https://github.com/mahedy25/Your-Dashboard-Repo)  
+### **Project 3 — My Portfolio Website**  
+A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
+[Code →](https://github.com/mahedy25/Sneakerz-Front-end) | [Live Demo →](sneakerz-front-end.vercel.app)  
 <p align="center">
-  <img src="https://i.imgur.com/your-screenshot3.png" alt="Dashboard screenshot" width="80%"/>
+  <img src="sneakerz.png" alt="Front-end ecommerce website Homepage" width="80%"/>
 </p>
 
 ---
