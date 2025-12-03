@@ -1,96 +1,120 @@
-<!-- -------------  Header / Banner  ------------- -->
+<!-- ================= Header / Banner ================= -->
 <div align="center">
-  <!-- Replace the URL below with your own banner or demo GIF -->
-  <img src="Solo Leveling Sung GIF.gif" alt="banner" width="100%" />
+  <img src="Solo Leveling Sung GIF.gif" alt="Banner" width="100%" />
 </div>
 
-# 👋 Hi, I’m **Mahedy Hasan**  
-### Full-Stack Web Developer | React · Next.js · Node.js · MongoDB · Sanity / Firebase
+# 🌟 Mahedy Hasan  
+### Full-Stack Web Developer | React · Next.js · Node.js · MongoDB · Sanity · TypeScript · Tailwind
 
 ---
 
-## 🔭 About Me  
-- I build **modern, responsive full-stack web applications** — combining clean UIs, robust back-ends, and headless-CMS/data solutions.  
-- I’m currently working on **ecommerce platforms**, **CMS-powered blogs**, and full-stack dashboard apps.  
-- I’m always learning — exploring **Next.js advanced patterns, serverless APIs, performance optimization & scalable architectures**.  
-- I love writing clean, maintainable code and building projects that are useful.  
+## 👋 About Me
+
+I’m a passionate **Full-Stack Web Developer** who builds modern, scalable, and user-centric digital products.  
+I specialize in **Next.js**, **React**, **Node.js**, and **MongoDB**, with a strong focus on clean UI, performance, and seamless user experience.
+
+✨ I love:  
+- Crafting beautiful, responsive UIs  
+- Building backend APIs & dashboards  
+- Architecting scalable applications  
+- Learning new technologies & best practices  
 
 ---
 
-## 🛠 Tech & Tools  
+## 🛠 Tech Stack
 
-**Frontend**  
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer-motion,gsap" alt="frontend icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer-motion,gsap" />
 </p>
 
-**Backend / Data / CMS**  
+### Backend / Databases / CMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sanity" alt="backend icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sanity" />
 </p>
 
-**Dev & Tools**  
+### Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,webpack" alt="tools icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,webpack,bash" />
 </p>
 
 ---
 
-## 🌐 Featured Projects  
-<!-- Replace the project names / descriptions / screenshots with your own -->
+## 🚀 Featured Projects
 
-### **Project 1 — Front-end ecommerce website**  
-The portfolio website of Mahedy Hasan.  
-[Code →](https://github.com/mahedy25/Mahedy2002) | [Live Demo →](https://mahedyhasan.vercel.app/)  
+### 🔥 Project 1 — Front-End Ecommerce Website
+A clean, modern front-end ecommerce UI built with Next.js & Tailwind.  
+**Code:** [GitHub](https://github.com/mahedy25/Mahedy2002)  
+**Live Demo:** [Visit Site](https://mahedyhasan.vercel.app/)
+
 <p align="center">
-  <img src="Screenshot (4028).png" alt="Portfolio website hero img" width="80%"/>
+  <img src="Screenshot (4028).png" alt="Portfolio Screenshot" width="80%"/>
 </p>
 
-### **Project 2 — Full Stack ecommerce website**  
-Full-stack e-commerce website built with Next.js and Sanity CMS to help businesses manage products, accept payments, and scale online operations. 
-[Code →](https://github.com/mahedy25/Scentora) | [Live Demo →](https://scentora.vercel.app/) 
+---
+
+### 🛒 Project 2 — Full Stack Ecommerce Platform
+A complete ecommerce system with product management, CMS, and modern UI.  
+**Tech:** Next.js · Sanity CMS · Tailwind · Modern UI  
+**Code:** [GitHub](https://github.com/mahedy25/Scentora)  
+**Live Demo:** [Visit Site](https://scentora.vercel.app/)
+
 <p align="center">
-  <img src="Home.png" alt="Full Stack Ecommerce Homepage" width="80%"/>
+  <img src="Home.png" alt="Ecommerce Screenshot" width="80%"/>
 </p>
 
-### **Project 3 — My Portfolio Website**  
-A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headless CMS backend.  
-[Code →](https://github.com/mahedy25/Sneakerz-Front-end) | [Live Demo →](sneakerz-front-end.vercel.app)  
+---
+
+### 👟 Project 3 — Sneakerz Ecommerce UI
+A stylish ecommerce frontend designed for product browsing & interactions.  
+**Code:** [GitHub](https://github.com/mahedy25/Sneakerz-Front-end)  
+**Live Demo:** [Visit Site](https://sneakerz-front-end.vercel.app/)
+
 <p align="center">
-  <img src="sneakerz.png" alt="Front-end ecommerce website Homepage" width="80%"/>
+  <img src="sneakerz.png" alt="Sneakerz Screenshot" width="80%"/>
 </p>
 
 ---
 
+## 📊 GitHub Insights
 
-## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedy25&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedy25&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true)
- 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahedy25&theme=tokyonight)
-
-
-
-
-
-
----
-
-## 📫 Get in Touch  
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahedyhasan.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://mahedyhasan.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-@mahedy25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahedy25)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahedyhasan25/)  
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahedy25&theme=tokyonight" />
+</p>
 
 ---
 
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://mahedyhasan.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-mahedyhasan.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/mahedy25">
+  <img src="https://img.shields.io/badge/GitHub-@mahedy25-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mahedyhasan25/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🧠 Quote I Live By
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---
 
-⚡ **I’m always building. Always learning. Always improving.**
-
+## ⚡ Always Building. Always Learning. Always Improving.
