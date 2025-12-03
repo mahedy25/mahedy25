@@ -46,9 +46,9 @@ A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headle
   <img src="sneakerz.png" alt="Front-end ecommerce website" width="80%"/>
 </p>
 
-### **Project 2 — CMS-Powered Blog**  
+### **Project 2 — Full Stack ecommerce website**  
 A blog system using Sanity (or Firebase) for content management, with Markdown support, comments, SEO-friendly pages.  
-[Code →](https://github.com/mahedy25/Your-Blog-Repo) | [Live Demo →](https://your-blog-demo.com)  
+[Code →]((https://github.com/mahedy25/Scentora)) | [Live Demo →]((https://scentora.vercel.app/))  
 <p align="center">
   <img src="https://i.imgur.com/your-screenshot2.png" alt="Blog screenshot" width="80%"/>
 </p>
