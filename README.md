@@ -65,22 +65,10 @@ A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headle
 
 ## 📊 GitHub Stats  
 
-### ⭐ Overall Stats  
-[![Stats](https://github-readme-stats.vercel.app/api?username=mahedy25&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=mahedy25&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true
-)
-
-### 🔥 Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedy25&theme=tokyonight)
 
-### 🧠 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy25&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy25&layout=compact&theme=tokyonight
-)
-
-
-### 📈 Contribution Graph  
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true)
-
-### 🗂️ Profile Summary Card  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true)
+ 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahedy25&theme=tokyonight)
 
 
