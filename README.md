@@ -67,7 +67,7 @@ A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headle
 
 ![Contributions](https://img.shields.io/badge/Contributions-344-blue?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahedy25&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60.svg)
+![Languages](https://img.shields.io/badge/Top%20Languages-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20React-green?style=for-the-badge)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedy25&theme=tokyonight)
 
