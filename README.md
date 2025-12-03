@@ -4,7 +4,7 @@
 </div>
 
 # 🌟 Hi, I’m **Mahedy Hasan**
-### Full-Stack Web Developer | React · Next.js · Node.js · MongoDB · Sanity · TypeScript · Tailwind
+### Full-Stack Web Developer | React · Next.js · Node.js · MongoDB · Sanity · Clerk · TypeScript · Tailwind
 
 ---
 
@@ -29,7 +29,8 @@ I’m passionate about learning new technologies and crafting digital experience
 
 ### Backend / Databases / CMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sanity" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,clerk" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sanity-io-1.svg" width="40" title="Sanity CMS"/>
 </p>
 
 ### Tools & Others
@@ -82,6 +83,9 @@ I’m passionate about learning new technologies and crafting digital experience
 
 ## 📫 Connect With Me
 <p align="center">
+  <a href="https://mahedyhasan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-mahedyhasan.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/mahedy25">
     <img src="https://img.shields.io/badge/GitHub-@mahedy25-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -99,5 +103,5 @@ I’m passionate about learning new technologies and crafting digital experience
 
 ## ⚡ Always Building. Always Learning. Always Improving
 <div align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Always Improving" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Funny Anime GIF" width="250"/>
 </div>
