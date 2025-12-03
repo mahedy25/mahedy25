@@ -80,9 +80,11 @@ A full-featured e-commerce frontend built with Next.js, Tailwind CSS, and headle
 
 ## 📫 Get in Touch  
 
+
+[![Portfolio website](https://img.shields.io/badge/Portfolio-mahedyhasan.vercel.app-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://mahedyhasan.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-@mahedy25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahedy25)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[![Mail](https://img.shields.io/badge/Email-me-@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahedyhasan873@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahedyhasan25/)  
+
 
 ---
 
