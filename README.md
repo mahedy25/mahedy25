@@ -72,11 +72,14 @@ I love combining **fun, creativity, and code** to craft experiences users enjoy.
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=mahedy25&theme=tokyonight" />
+  <!-- GitHub Streak Stats (working fork) -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=mahedy25&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahedy25&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahedy25&theme=tokyonight" />
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahedy25&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 ---
