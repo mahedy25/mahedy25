@@ -103,5 +103,5 @@ I love combining **fun, creativity, and code** to craft experiences users enjoy.
 
 ## ⚡ Always Building. Always Learning. Always Improving
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="Funny Anime GIF" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0MTBpdXo5dTc1cDdvY3N4NzIzeThiY2wydTZ3dnN3M2k0dm1wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" alt="Funny Anime GIF" width="250"/>
 </div>
