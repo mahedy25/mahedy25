@@ -1,7 +1,7 @@
 <!-- ================= Banner ================= -->
 
 <div align="center">
-  <img src="Solo Leveling Sung GIF.gif" alt="Banner" width="100%" />
+  <img src="Hunter Arise GIF by Xbox.gif" alt="Banner" width="100%" />
 </div>
 
 # 🌟 Hi, I’m **Mahedy Hasan**
