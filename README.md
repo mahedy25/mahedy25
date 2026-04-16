@@ -34,6 +34,7 @@ I specialize in creating **clean UI, smooth interactions, and performance-driven
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" title="Framer Motion"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" title="GSAP"/>
 </p>
 
 ### Backend (Learning)
@@ -46,7 +47,7 @@ I specialize in creating **clean UI, smooth interactions, and performance-driven
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sanity_logo.svg" width="40" title="Sanity CMS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" width="100" title="Sanity CMS"/>
 </p>
 
 ---
