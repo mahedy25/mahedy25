@@ -1,9 +1,3 @@
-<!-- ================= Banner ================= -->
-
-<div align="center">
-  <img src="Hunter Arise GIF by Xbox.gif" alt="Banner" width="100%" />
-</div>
-
 # 🌟 Hi, I’m **Mahedy Hasan**
 
 ### Frontend Developer | React · Next.js · TypeScript · Tailwind | Future Full-Stack Developer
@@ -40,7 +34,6 @@ I specialize in creating **clean UI, smooth interactions, and performance-driven
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" title="Framer Motion"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/greensock-gsap.svg" width="40" title="GSAP" />
 </p>
 
 ### Backend (Learning)
@@ -121,5 +114,10 @@ I specialize in creating **clean UI, smooth interactions, and performance-driven
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0MTBpdXo5dTc1cDdvY3N4NzIzeThiY2wydTZ3dnN3M2k0dm1wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="250"/>
+</div>
+
+
+<div align="center">
+  <img src="Hunter Arise GIF by Xbox.gif" alt="Banner" width="100%" />
 </div>
 
